@@ -1,0 +1,12 @@
+
+.about-img{
+   width: 100%;
+   height: 100%;
+}
+}
+.brand-name{
+    letter-spacing: 5px;
+    cursor: pointer;
+    font-size: 100px;
+    display: flex;
+}
